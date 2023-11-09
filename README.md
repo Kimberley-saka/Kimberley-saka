@@ -20,7 +20,8 @@ Tools:
 <img src="mysql.svg" height=8% width=8%>
 <img src="postgresql.svg" height=8% width=8%>
 <img src="git.svg" height=8% width=8%>
-<img src="git.svg" height=8% width=8%>
+<img src="arcgispro.jpeg" height=8% width=8%>
+<img src="qgis.jpeg" height=8% width=8%>
 
 
  
