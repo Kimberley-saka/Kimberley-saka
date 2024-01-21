@@ -4,7 +4,7 @@ I am a Backend developer with a background in Geographic Information Science.
 
 I am currently working on a geospatial E-learning platform called <a href="https://github.com/Kimberley-saka/geobrainroom">GeoBrainRoom </a>
 
-I am open to collaborate on projects with a focus on python or the Django REST Framework.
+I am open to collaborate on projects with a focus on python or Django.
 
 
 <img src="pixels.jpg" height=60% width=60%>
