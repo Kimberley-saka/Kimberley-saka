@@ -1,6 +1,6 @@
 👋 Hi, I’m @Kimberley-saka,
 
-I am a Geospatial data analyst and a Backend developer
+I am a Backend developer with a background in Geographic Information Science.
 
 I am currently working on a geospatial E-learning platform called <a href="https://github.com/Kimberley-saka/geobrainroom">GeoBrainRoom </a>
 
